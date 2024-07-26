@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import visData from "../images/Screenshot 2024-07-25 at 11.33.41 AM.png";
-import prediction from "../images/Screenshot 2024-07-25 at 11.33.41 AM.png";
+import prediction from "../images/Screenshot 2024-07-26 at 9.14.12 AM.png";
 import { docco } from "react-syntax-highlighter/dist/esm/styles/hljs";
 import HeaderDisplay from "../header/page";
 
